@@ -36,5 +36,5 @@ const deleteData = async () => {
 
 console.log(process.argv);
 
-// deleteData();
+deleteData();
 importData();
